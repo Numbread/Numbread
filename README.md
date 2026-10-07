@@ -84,14 +84,6 @@ A full-stack car booking system designed to manage vehicle reservations and sche
 - Built backend functionality for **bookings, user data, and system operations**.
 - Improved system performance and user experience through efficient design and implementation.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=aura&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## 🌐 Connect With Me
 
 - 📧 **Email:** kitclarknob34@gmail.com
